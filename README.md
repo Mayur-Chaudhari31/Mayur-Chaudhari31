@@ -1,16 +1,12 @@
-## Hi there 👋
+# 💫 Hi 👋, I'm Mayur Chaudhari
+**A passionate B.Tech Computer Science Student & Tech Enthusiast 🚀**
 
-<!--
-**Mayur-Chaudhari31/Mayur-Chaudhari31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Email Me 👉 ✉️ **mc2886806@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **I’m currently working on:**  my programming foundation and college projects.
+- 🌱 **I’m currently learning:** C, C++.
+- 👯 **I’m looking to collaborate on:** Beginner-friendly open-source projects and coding challenges.
+- 🤔 **I’m looking for help with:** Mastering Data Structures and Algorithms (DSA).
+- 💬 **Ask me about:** C, C++, College life, or Coding logic.
+- 📫 **How to reach me:** mc2886806@gmail.com
+- ⚡ **Fun fact:** I Love code and code Loves Me!
